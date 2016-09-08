@@ -15,7 +15,14 @@
 Servers/*
 .metadata/*
 .settings/*
-.recommenders
+.recommenders/*
 
+# Old sample files
+*.ldb
+*.mdb
+
+# Derby data
+*.dat
+*.ctrl
 
 *.log
