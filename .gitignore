@@ -16,6 +16,7 @@ Servers/*
 .metadata/*
 .settings/*
 .recommenders/*
+RemoteSystemsTempFiles/*
 
 # Old sample files
 *.ldb
