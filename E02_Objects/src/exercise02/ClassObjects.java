@@ -21,9 +21,9 @@ public class ClassObjects {
 		//    Add suitable getXyz() and setXyz() methods
 		//    Write code here to test these features of your Person class
 		
-		// 3. Add a constructor and test by coding: p= new Person("Fred", 21, 5.8);
+		// 3. Add a constructor and test by coding: p= new Person( "Fred", 21, 5.8 );
 		
-		// 4. Enable one Person to be copied to another and test by coding: Person p2= new Person(p)
+		// 4. Enable one Person to be copied to another and test by coding: Person p2= new Person( p )
 		//	  Check that p and p2 actually refer to two different objects
 		
 		// 5. Provide a suitable Person.equals() method and test it

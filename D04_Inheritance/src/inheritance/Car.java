@@ -5,7 +5,7 @@ public class Car extends Vehicle {
 	private int fuelLevel;
 
 	public Car() {
-		this( "SomeMake", "SomeModel");
+		this( "SomeMake", "SomeModel" );
 	}
 	
 	public Car(String make, String model) {
@@ -24,7 +24,7 @@ public class Car extends Vehicle {
 	@Override
 	public void showModel() {
 		super.showModel();
-		System.out.println( " Car");
+		System.out.println( " Car" );
 	}
 	
 }

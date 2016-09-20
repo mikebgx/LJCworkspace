@@ -18,7 +18,7 @@ public class Bike extends Vehicle {
 	@Override
 	public void showModel() {
 		super.showModel();
-		System.out.println( " Bike");
+		System.out.println( " Bike" );
 	}
 
 }

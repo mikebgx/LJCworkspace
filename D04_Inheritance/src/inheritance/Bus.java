@@ -20,7 +20,7 @@ public class Bus extends Vehicle {
 	@Override
 	public void showModel() {
 		super.showModel();
-		System.out.println( " Bus");
+		System.out.println( " Bus" );
 	}
 
 	

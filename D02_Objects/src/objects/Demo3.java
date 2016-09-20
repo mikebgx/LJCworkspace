@@ -26,7 +26,7 @@ public class Demo3 {
 
 		
 		// 10. Initialise can be better than setter
-		House h2= new House( "Ivy Tower", 400);	
+		House h2= new House( "Ivy Tower", 400 );	
 		System.out.println( h2 );
 		/* ^ this.name= name,  final,  NOTE overrides no-args ctor! */
 
@@ -34,9 +34,9 @@ public class Demo3 {
 		// 11. Copying a reference
 		House h3= h2;		// Did we copy a House?
 		h3.setNumRooms(2);
-		System.out.println( "Who stole rooms from: "+ h2+ " ? !!");
+		System.out.println( "Who stole rooms from: "+ h2+ " ? !!" );
 		if (h2 == h3) {
-			System.out.println( "h2 and h3  are The Same House \n");
+			System.out.println( "h2 and h3  are The Same House \n" );
 		}
 		else {
 			System.out.println( "Not same house \n" );
@@ -48,7 +48,7 @@ public class Demo3 {
 		System.out.println( "h2 = "+ h2 );
 		System.out.println( "h3 = "+ h3 );
 		System.out.println( "Are h2 and h3 referring to The Same House? : "+ (h2==h3) ); 
-		System.out.println( "Are Houses h2 and h3 The Same? : "+ h2.equals(h3) + "\n"); 
+		System.out.println( "Are Houses h2 and h3 The Same? : "+ h2.equals(h3) + "\n" ); 
 		/* Then uncomment House.equals() */		
 
 		

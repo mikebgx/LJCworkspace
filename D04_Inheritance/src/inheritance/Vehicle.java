@@ -6,7 +6,7 @@ public abstract class Vehicle {
 	private final String model;
 
 	public Vehicle() {
-		this( "SomeMake", "SomeModel");
+		this( "SomeMake", "SomeModel" );
 	}
 	
 	public Vehicle(String make, String model) {
