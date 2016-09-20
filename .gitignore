@@ -8,7 +8,6 @@
 
 # Eclipse project files
 .classpath
-.project
 *.index
 *.lock
 *.lck

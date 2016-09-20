@@ -1,3 +1,15 @@
-[ To Paste into Meetup conversation, for LJC Introduction to Java Workshop 20/9/2016 ] 
+[ To Paste into Meetup conversation, for LJC Introduction to Java Workshop 20/9/2016 
+Dropped the reference to setup.pdf and zlt zip d/l, they can find it from the gdoc ] 
 
-Hi All, Hopefully you have setup Java, Eclipse and Git by now. At the event we will be using some Java examples and exercises. Download and import them as below, and follow the README.txt:  git clone https://github.com/mikebgx/LJCworkspace.git  - Or (older version) http://myco.ws/LJCworkspace.zip  . Also Please bookmark https://docs.google.com/document/d/1P1H0h4oCoW04nS5PutnGmxz0R6i4Q_NXj_1-C80-DGw/edit?usp=sharing for late-breaking news.  See you on Tuesday night!  Mike, John & Omar.
+Hi All, 
+
+Hopefully you have setup Java, Eclipse and Git by now.
+ 
+At the event we will be using some Java examples and exercises. Download and import them as below, and follow the README.txt:
+ git clone https://github.com/mikebgx/LJCworkspace.git 
+
+Also please bookmark https://docs.google.com/document/d/1P1H0h4oCoW04nS5PutnGmxz0R6i4Q_NXj_1-C80-DGw/edit?usp=sharing
+ for alternative non-Git zip download, other details and late-breaking news.  
+
+Look forward to seeing you tomorrow night!  
+Mike, John & Omar.
